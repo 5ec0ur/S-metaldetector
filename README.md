@@ -3,8 +3,6 @@ An in-depth & multi-feature metal detecting script made for the qbcore framework
 This is my first release, I would appreciate all feedback good or bad. Feel free PR this repository with any improvements you suggest.
 Made by <a href="https://github.com/plasmaFPS">plasma#2782</a> & <a href="https://github.com/euenvy">EU ENVY#9641</a>.
 
-## Video Preview
-https://www.youtube.com/watch?v=4cd9LtAMNZM
 
 ## Dependencies
 - <a href="https://github.com/qbcore-framework/qb-core">**qb-core**</a>
